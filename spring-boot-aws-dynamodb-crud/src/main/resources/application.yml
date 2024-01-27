@@ -1,0 +1,10 @@
+amazon:
+  access:
+    key: <kendi erisim anahtarin>
+    secret-key: <kendi gizli anahtarin>
+  region: <kendi bolgen>
+  end-point:
+    url: dynamodb.<kendi bolgen>.amazonaws.com
+    
+server:
+  port: 8085 
